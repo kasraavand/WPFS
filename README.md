@@ -4,7 +4,7 @@ Send multiple files to your windows-phone device in Linux OS. You can even use W
 
 ## Usage:
 
-You can specify the file type by `-t` flag (`*music*`, `*picture*`, `*video*`) and use `-d` flag in order to speficy the destination.
+You can specify the file type by `-t` flag (*`music`*, *`picture`*, *`video`*) and use `-d` flag in order to speficy the destination.
 
 **Here is an example:**
 
