@@ -12,3 +12,7 @@ You can specify the file type by `-t` flag (*`music`*, *`picture`*, *`video`*) a
  python3.4 windowsphone-send-file.py -d /Home/music/The\ Doors-15.\ When\ The\ Music\'s\ Over.mp3 -t music
 
 ```
+
+**Requirements:**
+ - libmtp (*preferably version +1.1.6*)
+ - python (*version 3.X*)
